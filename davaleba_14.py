@@ -44,3 +44,4 @@ for i in range(len(sorted_arr) -1):
 print("Sorted array:", sorted_arr)
 print(min(differance))
 
+print("buy buy")
