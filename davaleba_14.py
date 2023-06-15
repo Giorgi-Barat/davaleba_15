@@ -45,3 +45,5 @@ print("Sorted array:", sorted_arr)
 print(min(differance))
 
 print("buy buy")
+
+print("just for practice")
