@@ -48,5 +48,9 @@ print(min(differance))
 
 print("buy buy")
 
+<<<<<<< HEAD
 print("add second branch")
 
+=======
+print("just for practice")
+>>>>>>> new-comment-feature
