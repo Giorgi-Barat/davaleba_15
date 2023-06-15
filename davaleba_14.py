@@ -1,4 +1,6 @@
 
+print("this program will help you sort and other staff")
+
 def quicksort(arr):
 
     if len(arr) <= 1:
@@ -45,3 +47,6 @@ print("Sorted array:", sorted_arr)
 print(min(differance))
 
 print("buy buy")
+
+print("add second branch")
+
